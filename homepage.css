@@ -19,6 +19,9 @@ div{
     75% {color: #78AED3;}
     100% {color: #4F77AA;}
 }
+a {
+    color: #AAC9DD;
+}
 
 .headers {
     font-family: 'Geneva';
