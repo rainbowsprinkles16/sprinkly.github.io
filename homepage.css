@@ -5,6 +5,9 @@
     animation-duration: 5s;
     animation-iteration-count: infinite;
 }
+div{
+    background-color: #1C1C1C;
+}
 @keyframes blues {
     0% {color: #4F77AA;}
     25% {color: #78AED3;}
@@ -13,7 +16,7 @@
     100% {color: #4F77AA;}
 }
 
-.h2 {
+.headers {
     font-family: 'Geneva';
     color: antiquewhite;
 }
