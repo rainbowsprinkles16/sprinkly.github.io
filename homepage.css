@@ -1,0 +1,14 @@
+.intro{
+    -webkit-animation-name: blues;
+    -webkit-animation-duration: 5s;
+    animation-name: blues;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes blues {
+    0% {color: #4F77AA;}
+    25% {color: #78AED3;}
+    50% {color: #AAC9DD;}
+    75% {color: #78AED3;}
+    100% {color: #4F77AA;}
+}
