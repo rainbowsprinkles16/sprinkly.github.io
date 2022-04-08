@@ -1,4 +1,4 @@
-document.addEventListener("index.html", switchingmodes()); 
+document.addEventListener("button", switchingmodes()); 
 
 var darkButton = document.createElement("button");
 darkButton.innerHTML = "Dark Mode";
