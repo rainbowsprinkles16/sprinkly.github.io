@@ -1,13 +1,14 @@
 document.addEventListener("button", switchingmodes()); 
 
 var darkButton = document.createElement("button");
-darkButton.innerHTML = "Dark Mode";
-darkButton.className = "cdma, cdmd, cdmh";
+darkButton.className = ".buttonpos";
 
 darkButton.onclick = switchingmodes();
 function switchingmodes() {
     var pageState = document.body;
-    pageState.classList.toggle(darkButton.className);
+    pageState.classList.toggle("cdma");
+    pageState.classList.toggle("cdmd");
+    pageState.classList.toggle("cdmh");
 };
 
 var toAddDark = document.getElementById("dark mode");

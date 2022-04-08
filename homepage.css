@@ -5,11 +5,11 @@
     animation-duration: 5s;
     animation-iteration-count: infinite;
 }
-div{
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
+.samemargins{
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    margin-right: 6px;
 }
 @keyframes blues {
     0% {color: #4F77AA;}
@@ -34,8 +34,12 @@ div{
 
 .cdmd{
     background-color: #1C1C1C;
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.buttonpos{
+    text-align: right;
 }
