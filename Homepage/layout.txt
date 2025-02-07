@@ -1,14 +1,19 @@
 Home/Welcome
-# 
+# Opening Cinematic
+# Name, PFP, One-Liner
+# Links to about, projects, devlogs
 
 About
-# 
-
-Contact
-#  
+# introduction
+# certifications
+# contact info 
+# drop down form
 
 Logs
-# 
+# Timeline format
+# # Vertical Scroll
+# # Card with photo, log #, date, short description
 
 Projects
-# 
+# Showcase completed works
+# Have placeholders for current / future projects
